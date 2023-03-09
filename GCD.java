@@ -18,7 +18,9 @@ public class GCD {
             a = b;
             b = r;
         }
+        System.out.println(b);
         System.out.println(a);
+
 
 
 
